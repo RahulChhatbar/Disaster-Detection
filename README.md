@@ -20,8 +20,4 @@ Object detection, Rapid identification, Early warning & response system, Threat 
 - **Precision:** 82.43%
 - **Recall:** 81.33%
 - **F1-score:** 81.60
-<<<<<<< HEAD
 - **Matthews Correlation Coefficient (MCC):** 0.672
-=======
-- **Matthews Correlation Coefficient (MCC):** 0.672
->>>>>>> 639265310ecc5b759de13071ba41ad542a959fb8
